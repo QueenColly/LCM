@@ -1,0 +1,15 @@
+# Java compiled files
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+
+# JUnit documentation and source archives
+lib/*-sources.jar
+lib/*-javadoc.jar
